@@ -10,7 +10,7 @@ import io
 st.set_page_config(layout="wide", page_title="Shell Organics Dashboard")
 
 # IMPORTANT: Replace this with your Google Drive Folder ID
-FOLDER_ID = 'YOUR_GOOGLE_DRIVE_FOLDER_ID_HERE' 
+FOLDER_ID = '1xT6TQCtshduOFGeJ7uF01vpdHKyBBPXD' 
 
 def get_drive_service():
     # This pulls your JSON key from the Streamlit "Secrets" setting
